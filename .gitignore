@@ -1,8 +1,4 @@
-# Ignore executable files
 *.exe
-
-# Ignore JSON files
 *.json
-
-# Ignore Visual Studio Code settings folder
 .vscode/
+.gitignore
